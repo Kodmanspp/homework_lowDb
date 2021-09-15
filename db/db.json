@@ -1,0 +1,102 @@
+{
+  "0": {
+    "id": "1d1ff8dd-6223-4d36-ac4e-247b347b0195",
+    "name": "Игорь",
+    "age": 23,
+    "specialization": "Фитнес",
+    "salary": 16000
+  },
+  "1": {
+    "id": "33bc5cdb-3762-4442-8ca7-a717b50e8ca5",
+    "name": "Виталия",
+    "age": 20,
+    "specialization": "Бокс",
+    "salary": 15000
+  },
+  "2": {
+    "id": "ce1353e7-7a7c-45cf-8ce2-00d984ff32c6",
+    "name": "Николашка",
+    "age": 25,
+    "specialization": "Йога",
+    "salary": 15000
+  },
+  "3": {
+    "id": "b8ff7a8a-d373-46d6-b41a-38d30634800b",
+    "name": "Алиса",
+    "age": 22,
+    "specialization": "Карате",
+    "salary": 16000
+  },
+  "inventory": [
+    {
+      "id": "6ad38d8c-0970-44e9-b927-4f48ad947adb",
+      "name": "Штанга",
+      "isInGoodContion": true,
+      "quantuty": 15,
+      "weight": 20,
+      "producedBy": "Nike"
+    },
+    {
+      "id": "a2805c61-5b72-4368-a1d9-df57f54285a7",
+      "name": "Блины",
+      "isInGoodContion": true,
+      "quantuty": 50,
+      "weight": 20,
+      "producedBy": "Xiomi"
+    },
+    {
+      "id": "84547fab-8b6b-4c6a-a215-cfec22907a6a",
+      "name": "Гантели",
+      "isInGoodContion": false,
+      "quantuty": 30,
+      "weight": 35,
+      "producedBy": "LC"
+    },
+    {
+      "id": "0fb48377-9bf4-47b5-9914-abd637528849",
+      "name": "Беговая дорожка",
+      "isInGoodContion": false,
+      "quantuty": 4,
+      "weight": 150,
+      "producedBy": "Runner TEch"
+    },
+    {
+      "id": "c7df5b2d-cebb-4eb0-bf37-4563266ccf88",
+      "name": "Груша",
+      "isInGoodContion": true,
+      "quantuty": 2,
+      "weight": 100,
+      "producedBy": "LCskill"
+    }
+  ],
+  "trainers": [
+    {
+      "id": "901f91d5-c58b-4470-bcac-f82b5d49fb0b",
+      "name": "Игорь",
+      "age": 23,
+      "specialization": "Фитнес",
+      "salary": 16000
+    },
+    {
+      "id": "00414d7d-d22a-4a21-8354-7108f517da4c",
+      "name": "Виталия",
+      "age": 20,
+      "specialization": "Бокс",
+      "salary": 15000
+    },
+    {
+      "id": "7473a5c4-1e12-4201-af35-73c0f82b7d37",
+      "name": "Николашка",
+      "age": 25,
+      "specialization": "Йога",
+      "salary": 15000
+    },
+    {
+      "id": "7f4f826a-9872-4182-8d51-6d2ccdf8d8f9",
+      "name": "Алиса",
+      "age": 22,
+      "specialization": "Карате",
+      "salary": 16000
+    }
+  ]
+}
